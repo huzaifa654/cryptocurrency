@@ -4,8 +4,7 @@ import Header from '../constants/components/Header';
 import {COLORS, FONTS, icons} from '../constants';
 import {moderateScale, scale, verticalScale} from 'react-native-size-matters';
 import Ether from '../constants/components/Ether';
-import TransictionDetail from '../constants/components/transictionDetail';
-import CustomButton from '../constants/components/CustomButton';
+// import CustomButton from '../constants/components/CustomButton';
 import TransictionHistory from '../constants/components/TransictionHistory';
 import History from '../constants/components/History';
 
